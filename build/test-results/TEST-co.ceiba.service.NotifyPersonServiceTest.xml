@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.ceiba.service.NotifyPersonServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-08T12:20:29" hostname="CRISTIAN-MORALES" time="0.002">
+  <properties/>
+  <testcase name="test" classname="co.ceiba.service.NotifyPersonServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

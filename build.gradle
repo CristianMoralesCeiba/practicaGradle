@@ -37,7 +37,7 @@ dependencies {
 }
 
 task codeCoverageReport(type: JacocoReport) {
-    executionData fileTree(project.rootDir.absolutePath).include("**/build/jacoco/*.exec")
+    executionData fileTree(project.rootDir.absolutePath).include("jacoco/jacocoTest.exec")
 
     subprojects.each {
         sourceSets it.sourceSets.main
